@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "CloseTabsLeft: Close Tabs",
+    "command": "close_tabs_left"
+  }
+}
