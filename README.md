@@ -8,8 +8,8 @@ Download this repo as zip and extract it in {packages} Directory
 ###Usage
 OS X
 
-`super+alt+l`
+`super+alt+left`
 
 Linux
 
-`Ctrl+alt+l`
+`ctrl+alt+left`

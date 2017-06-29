@@ -1,5 +1,5 @@
 [
     {
-        "keys": ["super+alt+l"], "command": "close_tabs_left"
+        "keys": ["super+alt+left"], "command": "close_tabs_left"
     }
 ]
